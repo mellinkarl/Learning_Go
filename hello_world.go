@@ -8,4 +8,5 @@ import (
 func main() {
 	// Racing or coding?
 	fmt.Println("Hola!")
+	fmt.Println(t.Now())
 }
